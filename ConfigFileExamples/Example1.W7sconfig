@@ -1,0 +1,8 @@
+$File.Document.Start
+%Document.Attrubutes.Name(W7sExampleConfigurationFile);
+%Document.Attrubutes.Identifier(ExaampleIDCode);
+%Document.Attrubutes.Signiture(West7014-studios-Server-703750572);
+%Document.Attrubutes.API(W7s-Connect);
+$File.Document.Body
+&Insert Main Code Here
+$File.Document.End
